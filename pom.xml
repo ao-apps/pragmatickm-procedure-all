@@ -36,6 +36,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	<name>PragmaticKM Procedure All</name>
 	<url>https://pragmatickm.com/procedure/all/</url>
 	<description>Convenience POM to include most procedures nested within SemanticCMS pages and elements features, not including documentation or examples.</description>
+	<inceptionYear>2016</inceptionYear>
 
 	<scm>
 		<!--
