@@ -3,6 +3,7 @@ Convenience POM to include most [PragmaticKM Procedure](https://pragmatickm.com/
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/all/)
+* [Changelog](https://pragmatickm.com/procedure/all/changelog)
 * [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
 * [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-all)
 
