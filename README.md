@@ -4,8 +4,8 @@ Convenience POM to include most [PragmaticKM Procedure](https://pragmatickm.com/
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/all/)
 * [Changelog](https://pragmatickm.com/procedure/all/changelog)
-* [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
-* [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure-all)
+* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm-procedure-all%22)
+* [GitHub](https://github.com/aoindustries/pragmatickm-procedure-all)
 
 ## Modules Included
 * [PragmaticKM Procedure Model](https://pragmatickm.com/procedure/model/)
