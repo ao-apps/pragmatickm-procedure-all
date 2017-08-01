@@ -54,7 +54,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 				scmUrl="@{documented.scm.url}"
 			>
 				<ul>
-					<li>New version of <core:link book="/procedure/taglib" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/procedure/taglib" page="/index.jspx" />.</li>
 				</ul>
 			</changelog:release>
 		</c:if>
