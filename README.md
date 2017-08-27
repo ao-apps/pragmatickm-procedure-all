@@ -34,6 +34,7 @@ Convenience POM to include most [PragmaticKM Procedure](https://pragmatickm.com/
 
 ## Modules Included
 * [PragmaticKM Procedure Model](https://pragmatickm.com/procedure/model/)
+* [PragmaticKM Procedure Renderer HTML](https://pragmatickm.com/procedure/renderer/html/)
 * [PragmaticKM Procedure Servlet](https://pragmatickm.com/procedure/servlet/)
 * [PragmaticKM Procedure Style](https://pragmatickm.com/procedure/style/)
 * [PragmaticKM Procedure Taglib](https://pragmatickm.com/procedure/taglib/)
