@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 pragmatickm-procedure-all - Convenience POM to include most PragmaticKM Procedure features, not including documentation or examples.
-Copyright (C) 2017  AO Industries, Inc.
+Copyright (C) 2017, 2018  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -37,7 +37,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T16:09:02-0500"
-		dateModified="2017-08-27T16:06:10-0500"
+		dateModified="2018-05-30T19:48:33-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm-procedure-all:pom.version}" />
@@ -54,6 +54,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 				scmUrl="@{documented.scm.url}"
 			>
 				<ul>
+					<li>Updated version of <core:link book="/procedure/model" page="/" />.</li>
 					<li>Updated version of <core:link book="/procedure/servlet" page="/" />.</li>
 					<li>Updated version of <core:link book="/procedure/style" page="/" />.</li>
 					<li>Updated version of <core:link book="/procedure/taglib" page="/" />.</li>
