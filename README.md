@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/) / [Procedure](https://pragmatickm.com/procedure/) / [All](https://pragmatickm.com/procedure/all/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [PragmaticKM](https://github.com/aoindustries/pragmatickm) / [Procedure](https://github.com/aoindustries/pragmatickm-procedure) / [All](https://github.com/aoindustries/pragmatickm-procedure-all)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://pragmatickm.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -24,7 +24,7 @@
 	</a>
 </p>
 
-Convenience POM to include most [PragmaticKM Procedure](https://pragmatickm.com/procedure/) features, not including documentation or examples.
+Convenience POM to include most [PragmaticKM Procedure](https://github.com/aoindustries/pragmatickm-procedure) features, not including documentation or examples.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/all/)
@@ -33,12 +33,12 @@ Convenience POM to include most [PragmaticKM Procedure](https://pragmatickm.com/
 * [GitHub](https://github.com/aoindustries/pragmatickm-procedure-all)
 
 ## Modules Included
-* [PragmaticKM Procedure Model](https://pragmatickm.com/procedure/model/)
-* [PragmaticKM Procedure Renderer HTML](https://pragmatickm.com/procedure/renderer/html/)
-* [PragmaticKM Procedure Servlet](https://pragmatickm.com/procedure/servlet/)
-* [PragmaticKM Procedure Style](https://pragmatickm.com/procedure/style/)
-* [PragmaticKM Procedure Taglib](https://pragmatickm.com/procedure/taglib/)
-* [PragmaticKM Procedure View](https://pragmatickm.com/procedure/view/)
+* [PragmaticKM Procedure Model](https://github.com/aoindustries/pragmatickm-procedure-model)
+* [PragmaticKM Procedure Renderer HTML](https://github.com/aoindustries/pragmatickm-procedure-renderer-html)
+* [PragmaticKM Procedure Servlet](https://github.com/aoindustries/pragmatickm-procedure-servlet)
+* [PragmaticKM Procedure Style](https://github.com/aoindustries/pragmatickm-procedure-style)
+* [PragmaticKM Procedure Taglib](https://github.com/aoindustries/pragmatickm-procedure-taglib)
+* [PragmaticKM Procedure View](https://github.com/aoindustries/pragmatickm-procedure-view)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
