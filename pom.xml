@@ -32,7 +32,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-all</artifactId><version>1.2.5-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>PragmaticKM 1 Procedure All</name>
+	<name>PragmaticKM Procedure All</name>
 	<url>https://pragmatickm.com/procedure/all/</url>
 	<description>Convenience POM to include most PragmaticKM Procedure features, not including documentation or examples.</description>
 	<inceptionYear>2016</inceptionYear>
