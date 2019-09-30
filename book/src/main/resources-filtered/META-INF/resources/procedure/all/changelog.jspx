@@ -36,7 +36,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T16:09:02-0500"
-		dateModified="2019-06-24T00:48:41-0500"
+		dateModified="2019-09-02T02:53:21-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm-procedure-all:pom.version}" />
@@ -51,7 +51,13 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 				groupId="@{documented.groupId}"
 				artifactId="@{documented.artifactId}"
 				scmUrl="@{documented.scm.url}"
-			/>
+			>
+				<ul>
+					<li>Updated version of <core:link book="/procedure/model" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/procedure/servlet" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/procedure/taglib" page="/index.jspx" />.</li>
+				</ul>
+			</changelog:release>
 		</c:if>
 
 		<changelog:release
