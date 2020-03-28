@@ -45,6 +45,11 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 		<tag>HEAD</tag>
 	</scm>
 
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/aoindustries/pragmatickm-procedure-all/issues</url>
+	</issueManagement>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
