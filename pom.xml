@@ -76,7 +76,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 		<dependencies>
 			<!-- Direct -->
 			<dependency>
-				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model</artifactId><version>1.4.2-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
+				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model</artifactId><version>1.5.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
 			</dependency>
 			<dependency>
 				<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-servlet</artifactId><version>1.6.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
@@ -158,7 +158,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 				<groupId>joda-time</groupId><artifactId>joda-time</artifactId><version>2.10.10</version>
 			</dependency>
 			<dependency>
-				<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId><version>1.13.1-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
+				<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId><version>1.14.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
 			</dependency>
 			<dependency>
 				<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-servlet</artifactId><version>1.18.0-SNAPSHOT<!-- ${POST-SNAPSHOT} --></version>
