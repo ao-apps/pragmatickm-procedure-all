@@ -29,7 +29,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 		<relativePath>../../parent/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-all</artifactId><version>1.6.0</version>
+	<groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-all</artifactId><version>1.6.0-POST-SNAPSHOT</version>
 	<packaging>bundle</packaging>
 
 	<properties>
@@ -72,7 +72,7 @@ along with pragmatickm-procedure-all.  If not, see <http://www.gnu.org/licenses 
 		<connection>scm:git:git://github.com/aoindustries/pragmatickm-procedure-all.git</connection>
 		<developerConnection>scm:git:git@github.com:aoindustries/pragmatickm-procedure-all.git</developerConnection>
 		<url>https://github.com/aoindustries/pragmatickm-procedure-all</url>
-		<tag>pragmatickm-procedure-all-1.6.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<issueManagement>
