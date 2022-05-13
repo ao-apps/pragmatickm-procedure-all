@@ -25,4 +25,4 @@ module com.pragmatickm.procedure.all {
   requires transitive com.pragmatickm.procedure.model; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-model</artifactId>
   requires transitive com.pragmatickm.procedure.servlet; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-servlet</artifactId>
   requires transitive com.pragmatickm.procedure.taglib; // <groupId>com.pragmatickm</groupId><artifactId>pragmatickm-procedure-taglib</artifactId>
-} // TODO: Avoiding rewrite-maven-plugin-4.22.2 truncation
+}
