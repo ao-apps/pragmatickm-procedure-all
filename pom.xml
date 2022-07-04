@@ -40,7 +40,7 @@ along with pragmatickm-procedure-all.  If not, see <https://www.gnu.org/licenses
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <name>PragmaticKM Procedure All²</name>
+  <name>PragmaticKM Procedure All</name>
   <url>https://pragmatickm.com/procedure/all/</url>
   <description>Convenience POM to include most PragmaticKM Procedure features, not including documentation or examples.</description>
   <inceptionYear>2016</inceptionYear>
