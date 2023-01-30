@@ -112,9 +112,10 @@ along with pragmatickm-procedure-all.  If not, see <https://www.gnu.org/licenses
         <groupId>org.apache.maven.plugins</groupId><artifactId>maven-dependency-plugin</artifactId>
         <configuration>
           <usedDependencies>
-            <!-- Direct -->
-            <dependency>com.pragmatickm:pragmatickm-procedure-servlet</dependency><!-- Required for module-info.java -->
-            <dependency>com.pragmatickm:pragmatickm-procedure-taglib</dependency><!-- Required for module-info.java -->
+            <!-- Required for module-info.java -->
+            <dependency>com.pragmatickm:pragmatickm-procedure-model</dependency>
+            <dependency>com.pragmatickm:pragmatickm-procedure-servlet</dependency>
+            <dependency>com.pragmatickm:pragmatickm-procedure-taglib</dependency>
             <!-- Runtime Direct -->
             <dependency>com.pragmatickm:pragmatickm-procedure-style</dependency>
             <dependency>com.pragmatickm:pragmatickm-procedure-view</dependency>
