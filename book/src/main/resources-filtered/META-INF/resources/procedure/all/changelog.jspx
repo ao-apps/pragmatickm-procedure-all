@@ -37,7 +37,7 @@ along with pragmatickm-procedure-all.  If not, see <https://www.gnu.org/licenses
     shortTitle="Changelog"
     tocLevels="1"
     datePublished="2017-07-25T16:09:02-05:00"
-    dateModified="2022-05-15T21:14:25-05:00"
+    dateModified="2023-10-06T06:24:04Z"
   >
     <c:set var="latestRelease" value="1.6.1" />
     <c:if test="${
@@ -55,6 +55,7 @@ along with pragmatickm-procedure-all.  If not, see <https://www.gnu.org/licenses
       >
         <ul>
           <li>New module <core:link book="/procedure/renderer/html" page="/" />.</li>
+          <li><code>ElementTag.evaluateAttributes(…)</code> no longer throws <code>IOException</code>.</li>
         </ul>
       </changelog:release>
     </c:if>
