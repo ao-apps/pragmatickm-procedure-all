@@ -21,7 +21,7 @@ Convenience POM to include most [PragmaticKM Procedure](https://github.com/ao-ap
 ## Project Links
 * [Project Home](https://pragmatickm.com/procedure/all/)
 * [Changelog](https://pragmatickm.com/procedure/all/changelog)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-procedure-all)
+* [Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm-procedure-all)
 * [GitHub](https://github.com/ao-apps/pragmatickm-procedure-all)
 
 ## Modules Included
